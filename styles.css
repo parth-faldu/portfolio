@@ -609,18 +609,18 @@ a {
 }
 
 #project1 {
-  background-image: url(./projects/project1.png);
+  background-image: url("./projects/project1.png");
   right: 5%;
   margin-top: 5rem;
 }
 
 #project2 {
-  background-image: url(./projects/project2.png);
+  background-image: url("./projects/project2.png");
   left: 5%;
 }
 
 #project3 {
-  background-image: url(./projects/project3.png);
+  background-image: url("./projects/project3.png");
   right: 5%;
 }
 
