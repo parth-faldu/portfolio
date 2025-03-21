@@ -615,15 +615,14 @@ a {
 }
 
 #project2 {
-  background-image: url(/projects/project2.png);
+  background-image: url(./projects/project2.png);
   left: 5%;
 }
 
 #project3 {
-  background-image: url(/projects/project3.png);
+  background-image: url(./projects/project3.png);
   right: 5%;
 }
-
 
 .projectCard {
   width: 80%;
